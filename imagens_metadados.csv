@@ -1,0 +1,511 @@
+Indice,Arquivo,Classe,Objeto 1,Objeto 2,Objeto 3,Objeto 4,Objeto 5,Fundo,Iluminação
+0,cabo_0.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+1,cabo_1.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+2,cabo_2.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+3,cabo_3.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+4,cabo_4.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+5,cabo_5.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+6,cabo_6.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+7,cabo_7.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+8,cabo_8.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+9,cabo_9.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+10,cabo_10.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+11,cabo_11.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+12,cabo_12.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+13,cabo_13.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+14,cabo_14.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+15,cabo_15.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+16,cabo_16.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+17,cabo_17.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+18,cabo_18.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+19,cabo_19.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+20,cabo_20.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+21,cabo_21.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+22,cabo_22.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+23,cabo_23.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+24,cabo_24.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+25,cabo_25.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+26,cabo_26.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+27,cabo_27.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+28,cabo_28.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+29,cabo_29.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+30,cabo_30.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+31,cabo_31.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+32,cabo_32.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+33,cabo_33.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+34,cabo_34.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+35,cabo_35.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+36,cabo_36.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+37,cabo_37.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+38,cabo_38.jpg,cabo,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+39,cabo_39.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+40,cabo_40.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+41,cabo_41.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+42,cabo_42.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+43,cabo_43.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+44,cabo_44.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+45,cabo_45.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+46,cabo_46.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+47,cabo_47.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+48,cabo_48.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+49,cabo_49.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+50,cabo_50.jpg,cabo,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+0,caderno_0.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+1,caderno_1.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+2,caderno_2.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+3,caderno_3.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+4,caderno_4.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+5,caderno_5.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+6,caderno_6.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+7,caderno_7.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+8,caderno_8.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+9,caderno_9.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+10,caderno_10.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+11,caderno_11.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+12,caderno_12.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+13,caderno_13.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+14,caderno_14.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+15,caderno_15.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+16,caderno_16.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+17,caderno_17.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+18,caderno_18.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+19,caderno_19.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+20,caderno_20.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+21,caderno_21.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+22,caderno_22.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+23,caderno_23.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+24,caderno_24.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+25,caderno_25.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+26,caderno_26.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+27,caderno_27.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+28,caderno_28.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+29,caderno_29.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+30,caderno_30.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+31,caderno_31.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+32,caderno_32.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+33,caderno_33.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+34,caderno_34.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+35,caderno_35.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+36,caderno_36.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+37,caderno_37.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+38,caderno_38.jpg,caderno,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+39,caderno_39.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+40,caderno_40.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+41,caderno_41.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+42,caderno_42.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+43,caderno_43.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+44,caderno_44.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+45,caderno_45.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+46,caderno_46.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+47,caderno_47.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+48,caderno_48.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+49,caderno_49.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+50,caderno_50.jpg,caderno,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+0,caneta_0.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+1,caneta_1.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+2,caneta_2.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+3,caneta_3.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+4,caneta_4.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+5,caneta_5.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+6,caneta_6.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+7,caneta_7.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+8,caneta_8.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+9,caneta_9.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+10,caneta_10.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+11,caneta_11.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+12,caneta_12.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+13,caneta_13.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+14,caneta_14.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+15,caneta_15.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+16,caneta_16.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+17,caneta_17.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+18,caneta_18.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+19,caneta_19.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+20,caneta_20.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+21,caneta_21.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+22,caneta_22.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+23,caneta_23.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+24,caneta_24.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+25,caneta_25.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+26,caneta_26.jpg,caneta,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+27,caneta_27.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+28,caneta_28.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+29,caneta_29.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+30,caneta_30.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+31,caneta_31.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+32,caneta_32.jpg,caneta,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+33,caneta_33.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+34,caneta_34.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+35,caneta_35.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+36,caneta_36.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+37,caneta_37.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+38,caneta_38.jpg,caneta,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+39,caneta_39.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+40,caneta_40.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+41,caneta_41.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+42,caneta_42.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+43,caneta_43.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+44,caneta_44.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+45,caneta_45.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+46,caneta_46.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+47,caneta_47.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+48,caneta_48.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+49,caneta_49.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+50,caneta_50.jpg,caneta,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+0,carregador_0.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+1,carregador_1.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+2,carregador_2.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+3,carregador_3.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+4,carregador_4.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+5,carregador_5.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+6,carregador_6.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+7,carregador_7.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+8,carregador_8.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+9,carregador_9.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+10,carregador_10.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+11,carregador_11.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+12,carregador_12.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+13,carregador_13.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+14,carregador_14.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+15,carregador_15.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+16,carregador_16.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+17,carregador_17.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+18,carregador_18.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+19,carregador_19.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+20,carregador_20.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+21,carregador_21.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+22,carregador_22.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+23,carregador_23.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+24,carregador_24.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+25,carregador_25.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+26,carregador_26.jpg,carregador,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+27,carregador_27.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+28,carregador_28.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+29,carregador_29.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+30,carregador_30.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+31,carregador_31.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+32,carregador_32.jpg,carregador,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+33,carregador_33.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+34,carregador_34.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+35,carregador_35.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+36,carregador_36.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+37,carregador_37.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+38,carregador_38.jpg,carregador,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+39,carregador_39.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+40,carregador_40.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+41,carregador_41.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+42,carregador_42.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+43,carregador_43.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+44,carregador_44.jpg,carregador,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+45,carregador_45.jpg,carregador,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+46,carregador_46.jpg,carregador,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+47,carregador_47.jpg,carregador,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+48,carregador_48.jpg,carregador,fita,carregador,cubo,regua,tesoura,pia preta,dia
+49,carregador_49.jpg,carregador,fita,carregador,cubo,regua,tesoura,pia preta,dia
+50,carregador_50.jpg,carregador,fita,carregador,cubo,regua,tesoura,pia preta,dia
+0,cubo_0.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+1,cubo_1.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+2,cubo_2.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+3,cubo_3.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+4,cubo_4.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+5,cubo_5.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+6,cubo_6.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+7,cubo_7.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+8,cubo_8.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+9,cubo_9.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+10,cubo_10.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+11,cubo_11.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+12,cubo_12.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+13,cubo_13.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+14,cubo_14.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+15,cubo_15.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+16,cubo_16.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+17,cubo_17.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+18,cubo_18.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+19,cubo_19.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+20,cubo_20.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+21,cubo_21.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+22,cubo_22.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+23,cubo_23.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+24,cubo_24.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+25,cubo_25.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+26,cubo_26.jpg,cubo,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+27,cubo_27.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+28,cubo_28.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+29,cubo_29.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+30,cubo_30.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+31,cubo_31.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+32,cubo_32.jpg,cubo,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+33,cubo_33.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+34,cubo_34.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+35,cubo_35.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+36,cubo_36.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+37,cubo_37.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+38,cubo_38.jpg,cubo,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+39,cubo_39.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+40,cubo_40.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+41,cubo_41.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+42,cubo_42.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+43,cubo_43.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+44,cubo_44.jpg,cubo,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+45,cubo_45.jpg,cubo,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+46,cubo_46.jpg,cubo,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+47,cubo_47.jpg,cubo,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+48,cubo_48.jpg,cubo,fita,carregador,cubo,regua,tesoura,pia preta,dia
+49,cubo_49.jpg,cubo,fita,carregador,cubo,regua,tesoura,pia preta,dia
+50,cubo_50.jpg,cubo,fita,carregador,cubo,regua,tesoura,pia preta,dia
+0,fita_0.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+1,fita_1.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+2,fita_2.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+3,fita_3.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+4,fita_4.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+5,fita_5.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+6,fita_6.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+7,fita_7.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+8,fita_8.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+9,fita_9.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+10,fita_10.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+11,fita_11.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+12,fita_12.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+13,fita_13.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+14,fita_14.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+15,fita_15.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+16,fita_16.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+17,fita_17.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+18,fita_18.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+19,fita_19.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+20,fita_20.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+21,fita_21.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+22,fita_22.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+23,fita_23.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+24,fita_24.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+25,fita_25.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+26,fita_26.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+27,fita_27.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+28,fita_28.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+29,fita_29.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+30,fita_30.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+31,fita_31.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+32,fita_32.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+33,fita_33.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+34,fita_34.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+35,fita_35.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+36,fita_36.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+37,fita_37.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+38,fita_38.jpg,fita,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+39,fita_39.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+40,fita_40.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+41,fita_41.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+42,fita_42.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+43,fita_43.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+44,fita_44.jpg,fita,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+45,fita_45.jpg,fita,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+46,fita_46.jpg,fita,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+47,fita_47.jpg,fita,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+48,fita_48.jpg,fita,fita,carregador,cubo,regua,tesoura,pia preta,dia
+49,fita_49.jpg,fita,fita,carregador,cubo,regua,tesoura,pia preta,dia
+50,fita_50.jpg,fita,fita,carregador,cubo,regua,tesoura,pia preta,dia
+0,grampeador_0.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+1,grampeador_1.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+2,grampeador_2.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+3,grampeador_3.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+4,grampeador_4.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+5,grampeador_5.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+6,grampeador_6.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+7,grampeador_7.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+8,grampeador_8.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+9,grampeador_9.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+10,grampeador_10.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+11,grampeador_11.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+12,grampeador_12.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+13,grampeador_13.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+14,grampeador_14.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+15,grampeador_15.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+16,grampeador_16.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+17,grampeador_17.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+18,grampeador_18.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+19,grampeador_19.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+20,grampeador_20.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+21,grampeador_21.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+22,grampeador_22.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+23,grampeador_23.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+24,grampeador_24.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+25,grampeador_25.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+26,grampeador_26.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+27,grampeador_27.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+28,grampeador_28.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+29,grampeador_29.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+30,grampeador_30.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+31,grampeador_31.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+32,grampeador_32.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+33,grampeador_33.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+34,grampeador_34.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+35,grampeador_35.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+36,grampeador_36.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+37,grampeador_37.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+38,grampeador_38.jpg,grampeador,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+39,grampeador_39.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+40,grampeador_40.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+41,grampeador_41.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+42,grampeador_42.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+43,grampeador_43.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+44,grampeador_44.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+45,grampeador_45.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+46,grampeador_46.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+47,grampeador_47.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+48,grampeador_48.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+49,grampeador_49.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+50,grampeador_50.jpg,grampeador,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+0,prendedor_0.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+1,prendedor_1.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+2,prendedor_2.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,noite
+3,prendedor_3.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+4,prendedor_4.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+5,prendedor_5.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa marrom,noite
+6,prendedor_6.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+7,prendedor_7.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+8,prendedor_8.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,dia
+9,prendedor_9.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+10,prendedor_10.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+11,prendedor_11.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,dia
+12,prendedor_12.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+13,prendedor_13.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+14,prendedor_14.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,dia
+15,prendedor_15.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+16,prendedor_16.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+17,prendedor_17.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,noite
+18,prendedor_18.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+19,prendedor_19.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+20,prendedor_20.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,noite
+21,prendedor_21.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+22,prendedor_22.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+23,prendedor_23.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,flash
+24,prendedor_24.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+25,prendedor_25.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+26,prendedor_26.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,mesa amarela ,luz apagada
+27,prendedor_27.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+28,prendedor_28.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+29,prendedor_29.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,flash
+30,prendedor_30.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+31,prendedor_31.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+32,prendedor_32.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,pia preta,luz apagada
+33,prendedor_33.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+34,prendedor_34.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+35,prendedor_35.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,flash
+36,prendedor_36.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+37,prendedor_37.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+38,prendedor_38.jpg,prendedor,prendedor,cabo,caderno,grampeador,caneta,azulejo branco,imagem clareada
+39,prendedor_39.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+40,prendedor_40.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+41,prendedor_41.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa amarela ,dia
+42,prendedor_42.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+43,prendedor_43.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+44,prendedor_44.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,mesa marrom,dia
+45,prendedor_45.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+46,prendedor_46.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+47,prendedor_47.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,pia preta,dia
+48,prendedor_48.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+49,prendedor_49.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+50,prendedor_50.jpg,prendedor,caneta,cabo,caderno,grampeador,prendedor,azulejo branco,dia
+0,regua_0.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+1,regua_1.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+2,regua_2.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+3,regua_3.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+4,regua_4.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+5,regua_5.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+6,regua_6.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+7,regua_7.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+8,regua_8.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+9,regua_9.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+10,regua_10.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+11,regua_11.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+12,regua_12.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+13,regua_13.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+14,regua_14.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+15,regua_15.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+16,regua_16.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+17,regua_17.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+18,regua_18.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+19,regua_19.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+20,regua_20.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+21,regua_21.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+22,regua_22.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+23,regua_23.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+24,regua_24.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+25,regua_25.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+26,regua_26.jpg,regua,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+27,regua_27.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+28,regua_28.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+29,regua_29.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+30,regua_30.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+31,regua_31.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+32,regua_32.jpg,regua,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+33,regua_33.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+34,regua_34.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+35,regua_35.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+36,regua_36.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+37,regua_37.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+38,regua_38.jpg,regua,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+39,regua_39.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+40,regua_40.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+41,regua_41.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+42,regua_42.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+43,regua_43.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+44,regua_44.jpg,regua,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+45,regua_45.jpg,regua,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+46,regua_46.jpg,regua,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+47,regua_47.jpg,regua,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+48,regua_48.jpg,regua,fita,carregador,cubo,regua,tesoura,pia preta,dia
+49,regua_49.jpg,regua,fita,carregador,cubo,regua,tesoura,pia preta,dia
+50,regua_50.jpg,regua,fita,carregador,cubo,regua,tesoura,pia preta,dia
+0,tesoura_0.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+1,tesoura_1.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+2,tesoura_2.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,noite
+3,tesoura_3.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+4,tesoura_4.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+5,tesoura_5.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa marrom,noite
+6,tesoura_6.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+7,tesoura_7.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+8,tesoura_8.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,dia
+9,tesoura_9.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+10,tesoura_10.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+11,tesoura_11.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,dia
+12,tesoura_12.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+13,tesoura_13.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+14,tesoura_14.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,dia
+15,tesoura_15.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+16,tesoura_16.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+17,tesoura_17.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,noite
+18,tesoura_18.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+19,tesoura_19.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+20,tesoura_20.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,noite
+21,tesoura_21.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+22,tesoura_22.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+23,tesoura_23.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,flash
+24,tesoura_24.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+25,tesoura_25.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+26,tesoura_26.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,mesa amarela ,luz apagada
+27,tesoura_27.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+28,tesoura_28.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+29,tesoura_29.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,flash
+30,tesoura_30.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+31,tesoura_31.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+32,tesoura_32.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,pia preta,luz apagada
+33,tesoura_33.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+34,tesoura_34.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+35,tesoura_35.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,imagem clareada
+36,tesoura_36.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+37,tesoura_37.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+38,tesoura_38.jpg,tesoura,caneta,carregador,cubo,regua,tesoura,azulejo branco,flash
+39,tesoura_39.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+40,tesoura_40.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+41,tesoura_41.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa amarela ,dia
+42,tesoura_42.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+43,tesoura_43.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+44,tesoura_44.jpg,tesoura,fita,carregador,cubo,regua,tesoura,mesa marrom,dia
+45,tesoura_45.jpg,tesoura,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+46,tesoura_46.jpg,tesoura,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+47,tesoura_47.jpg,tesoura,fita,carregador,cubo,regua,tesoura,azulejo branco,dia
+48,tesoura_48.jpg,tesoura,fita,carregador,cubo,regua,tesoura,pia preta,dia
+49,tesoura_49.jpg,tesoura,fita,carregador,cubo,regua,tesoura,pia preta,dia
+50,tesoura_50.jpg,tesoura,fita,carregador,cubo,regua,tesoura,pia preta,dia

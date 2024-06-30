@@ -7,6 +7,7 @@ N° USP: 12566122
 
 - metadados.csv: Contém algumas informações gerais da base de dados
 - imagens_metadados.csv: Contém as informações de cada imagens, como objetos, iluminação e fundo.
+- augmented.csv: Contém os parâmetros c e gama para as transformações do logaritmo e gama.
 
 ## Observações
 
